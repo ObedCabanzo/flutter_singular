@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["T5553QZGL6.com.example.flutterSingular"],
+        "components": [
+          {
+            "/": "/app/*",
+            "comment": "Matches any URL with a path that starts with /app/."
+          }
+        ]
+      }
+    ]
+  }
+}
